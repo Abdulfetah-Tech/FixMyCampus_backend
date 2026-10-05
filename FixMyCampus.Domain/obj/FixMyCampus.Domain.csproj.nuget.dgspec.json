@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Domain\\FixMyCampus.Domain.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Domain\\FixMyCampus.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Domain\\FixMyCampus.Domain.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Domain\\FixMyCampus.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Domain\\FixMyCampus.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Domain\\FixMyCampus.Domain.csproj",
         "projectName": "FixMyCampus.Domain",
-        "projectPath": "c:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Domain\\FixMyCampus.Domain.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Domain\\FixMyCampus.Domain.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Domain\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

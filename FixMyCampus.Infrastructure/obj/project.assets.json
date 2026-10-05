@@ -1433,11 +1433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Infrastructure\\FixMyCampus.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Infrastructure\\FixMyCampus.Infrastructure.csproj",
       "projectName": "FixMyCampus.Infrastructure",
-      "projectPath": "c:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Infrastructure\\FixMyCampus.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Infrastructure\\FixMyCampus.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1460,8 +1460,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Application\\FixMyCampus.Application.csproj": {
-              "projectPath": "c:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Application\\FixMyCampus.Application.csproj"
+            "C:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Application\\FixMyCampus.Application.csproj": {
+              "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\FixMyCampus\\backend\\FixMyCampus.Application\\FixMyCampus.Application.csproj"
             }
           }
         }

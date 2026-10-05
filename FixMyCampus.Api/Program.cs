@@ -4,6 +4,7 @@ using FixMyCampus.Application.Common;
 using FixMyCampus.Infrastructure;
 using FixMyCampus.Infrastructure.Persistence.Seed;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.IdentityModel.Tokens;
 using Scalar.AspNetCore;
 using System.Text.Json.Serialization;
@@ -156,9 +157,7 @@ app.UseExceptionHandler(errorApp =>
 {
     errorApp.Run(async context =>
     {
-        var exception = context.Features
-            .Get<Microsoft.AspNetCore.Diagnostics.IExceptionHandlerFeature>()
-            ?.Error;
+        var exception = context.Features.Get<IExceptionHandlerFeature>()?.Error;
 
         var (status, title, detail) = exception switch
         {
@@ -174,6 +173,18 @@ app.UseExceptionHandler(errorApp =>
                 (StatusCodes.Status500InternalServerError, "Server Error",
                     "The server encountered an unexpected error.")
         };
+
+        if (exception is not null)
+        {
+            var logger = context.RequestServices
+                .GetRequiredService<ILoggerFactory>()
+                .CreateLogger("FixMyCampus.Api.ExceptionHandler");
+
+            if (status >= StatusCodes.Status500InternalServerError)
+                logger.LogError(exception, "Unhandled API exception.");
+            else
+                logger.LogWarning(exception, "Handled API exception as {Status}.", status);
+        }
 
         context.Response.StatusCode = status;
         await context.Response.WriteAsJsonAsync(new

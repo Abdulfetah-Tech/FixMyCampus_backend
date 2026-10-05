@@ -1,0 +1,13 @@
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\bin\Debug\net10.0\FixMyCampus.Domain.deps.json
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\bin\Debug\net10.0\FixMyCampus.Domain.dll
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\bin\Debug\net10.0\FixMyCampus.Domain.pdb
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\obj\Debug\net10.0\FixMyCampus.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\obj\Debug\net10.0\FixMyCampus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\obj\Debug\net10.0\FixMyCampus.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\obj\Debug\net10.0\FixMyCampus.Domain.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\obj\Debug\net10.0\FixMyCampus.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\obj\Debug\net10.0\FixMyCampus.Domain.sourcelink.json
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\obj\Debug\net10.0\FixMyCampus.Domain.dll
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\obj\Debug\net10.0\refint\FixMyCampus.Domain.dll
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\obj\Debug\net10.0\FixMyCampus.Domain.pdb
+C:\Users\HP\OneDrive\Desktop\FixMyCampus\backend\FixMyCampus.Domain\obj\Debug\net10.0\ref\FixMyCampus.Domain.dll
